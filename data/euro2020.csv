@@ -1,4 +1,4 @@
-Player,Country,Position,Match played,Goals,Right foot goals,Left foot goals,Header goals,Assists,Total attempts,On target,Off target,Woodwork,Shot blocks,Avg gpg,Fouls suffered,Fouls committed,Top speed,Passing accuracy,Distance covered,Clearence attempted,Balls recovered,Tackels,Blocks,Yellow cards,Red cards,Minutes played
+Player,Country,Position,Match played,Goals,Right foot goals,Left foot goals,Header goals,Assists,Total attempts,On target,Off target,Woodwork,Shot blocks,Avg gpg,Fouls suffered,Fouls committed,Top speed,Passing accuracy,Distance covered,Clearence attempted,Balls recovered,Tackles,Blocks,Yellow cards,Red cards,Minutes played
 Cristiano Ronaldo,Portugal,F,4,5,3,2,0,1,16,8,5,0,3,1.25,9,0,29.7,86,36.1,2,2,1,,0,0,360
 Patrik Schick,Czech Republic,F,5,5,1,3,1,0,16,9,5,0,2,1,2,5,32.4,71,43.6,4,6,3,,0,0,404
 Karim Benzema,France,F,4,4,2,2,1,0,11,5,3,0,3,1,0,0,29.5,87,37.1,1,4,0,,0,0,349
